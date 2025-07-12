@@ -1,3 +1,7 @@
-const generateContacts = async (number) => {};
+import { writeContacts } from "../utils/writeContacts.js";
 
-generateContacts(5);
+const generateContacts = async (number) => {
+    await writeContacts(number);
+};
+
+generateContacts(3);

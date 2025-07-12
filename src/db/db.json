@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "9610ce52-1645-446e-9573-775ed62b49ec",
+    "name": "Dr. Hector Tromp",
+    "phone": "867.647.8251 x7787",
+    "email": "Elvera_Bailey@yahoo.com",
+    "job": "Forward Research Analyst"
+  },
+  {
+    "id": "cef3a039-a4cd-472b-928f-5b35c700e3ad",
+    "name": "Pam Heller",
+    "phone": "(293) 921-1685",
+    "email": "Marcellus_Hartmann32@yahoo.com",
+    "job": "Direct Marketing Orchestrator"
+  }
+]
